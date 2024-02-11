@@ -1,0 +1,39 @@
+body {
+    background-color: aquamarine;
+    color: grey;
+    font-family: 'Pacifico', cursive;
+}
+.heading {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.photo {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.ingredients {
+    border: 1px solid royalblue;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.ingredients-table {
+    margin: 1rem auto;
+    padding-right: 18rem;
+}
+
+.instructions {
+    border: 1px solid royalblue;
+    width: 30%;
+    margin: 0 auto;
+}
+.instructions ol {
+    margin: 1rem auto;
+}
+
+.footer {
+    margin: 0 auto;
+    width: 10%;
+}
